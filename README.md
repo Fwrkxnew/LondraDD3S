@@ -1,2 +1,2 @@
 # LondraDD3S
-LONDRA DD3S 4TT4CK3R
+Download python 3.11 and run setup.py, main.py
